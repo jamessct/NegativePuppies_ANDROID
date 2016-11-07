@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Negative Puppies</string>
+    <string name="question">Type your command here...</string>
+    <string name="shake">Fetch response!</string>
+    <string name="feed_button">Feed puppies!</string>
+    <string name="answer_title">The puppies say:</string>
+    <string name="answer2">The puppies say:</string>
+    <string name="say_hello">Pet puppy</string>
+    <string name="menu_toast_hello">Woof woof :)</string>
+</resources>

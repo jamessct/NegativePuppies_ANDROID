@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/puppyfur" >
+
+
+    <EditText
+        android:id="@+id/question_text"
+        android:hint="@string/question"
+        android:textSize="25dp"
+        android:layout_marginTop="50dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/shake_button"
+        android:text="@string/shake"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="0dp"
+        android:layout_width="150dp"
+        android:layout_height="65dp"
+        android:layout_gravity="center"
+        android:background="#A593E0"
+        android:textColor="#AF4034"/>
+
+    <Button
+        android:id="@+id/feed_button"
+        android:text="@string/feed_button"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="0dp"
+        android:layout_width="150dp"
+        android:layout_height="65dp"
+        android:layout_gravity="center"
+        android:background="#feee7d"
+        android:textColor="#AF4034"
+        android:bottomRightRadius="70dp"
+        android:bottomLeftRadius="10dp"
+        android:topLeftRadius="10dp"
+        android:topRightRadius="10dp"/>
+</LinearLayout>
