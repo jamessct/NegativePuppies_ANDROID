@@ -1,0 +1,1 @@
+In this project, I wanted to explore the potential of pulling various randomised pieces of data through from text files.  This was my first attempt at creating a multiple page Android mobile app, so I wished to incorporate several pages of fun filled puppy madness.
